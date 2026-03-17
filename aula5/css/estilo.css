@@ -1,0 +1,14 @@
+h1,h2 {color:red}
+p {color:black;
+   font-size: 12pt;  
+   font-family: helvetica;}
+P:first-letter {font-size: 200%}
+h1:first-letter {font-size: 200%}
+
+header h1 {color:aqua}
+footer p {color:beige}
+/* id */
+#t1 {color:blueviolet}
+/* class */
+.aviso {color: pink;}
+

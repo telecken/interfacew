@@ -1,0 +1,14 @@
+:root
+body {color:brown;
+font-family: "Fredoka", sans-serif;}
+
+header{text-align:center;
+       text-decoration:underline overline double;
+       text-transform: capitalize;
+    }
+p{color:blue;
+      font-size: 14px;
+      font-weight: 700;
+      font-style: oblique;
+      font-family: times, Helvetica, sans-serif;
+    }
